@@ -1,5 +1,5 @@
 ---
-name: generating-dataflow-pipeline
+name: dataflow-pipeline-v2
 description: |
   Complete DataFlow pipeline construction skill for code agents (v2, designed from observed agent behavior).
   Trigger when the user asks to: build / design / create / optimize a DataFlow pipeline from a dataset and a natural-language target.
